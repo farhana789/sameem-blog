@@ -15,6 +15,9 @@ post creation page
 Login Pgae
 <img width="960" alt="Annotation 2024-03-27 174450" src="https://github.com/farhana789/sameem-blog/assets/161808031/9d23642c-f67f-4603-a321-d9f44405baef">
 
+logout page
+<img width="960" alt="Annotation 2024-03-28 122026" src="https://github.com/farhana789/sameem-blog/assets/161808031/52121b6a-2aa8-4fcf-ac1a-e60f3a6f825e">
+
 Forget Password
 <img width="960" alt="Annotation 2024-03-27 175533" src="https://github.com/farhana789/sameem-blog/assets/161808031/50c7c4f6-7c6f-4a52-abf6-2591556d5916">
 <img width="960" alt="Annotation 2024-03-27 175614" src="https://github.com/farhana789/sameem-blog/assets/161808031/8fec39ee-c4e4-4603-92df-2ecf684cc02e">
