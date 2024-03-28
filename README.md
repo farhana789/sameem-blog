@@ -14,6 +14,8 @@ post creation page
 
 post delete page
 <img width="960" alt="Annotation 2024-03-28 122406" src="https://github.com/farhana789/sameem-blog/assets/161808031/fc7eca51-b2b7-4abd-9b00-b95163043b1e">
+<img width="960" alt="Annotation 2024-03-28 122616" src="https://github.com/farhana789/sameem-blog/assets/161808031/2f7f8242-5450-4b7b-9751-4f717f7384de">
+
 
 Login Pgae
 <img width="960" alt="Annotation 2024-03-27 174450" src="https://github.com/farhana789/sameem-blog/assets/161808031/9d23642c-f67f-4603-a321-d9f44405baef">
