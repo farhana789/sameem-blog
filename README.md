@@ -11,4 +11,3 @@ post creation page
 
 Login Pgae
 <img width="960" alt="Annotation 2024-03-27 174450" src="https://github.com/farhana789/sameem-blog/assets/161808031/9d23642c-f67f-4603-a321-d9f44405baef">
-<img width="960" alt="Annotation 2024-03-27 174554" src="https://github.com/farhana789/sameem-blog/assets/161808031/fe3f69ec-7b68-498c-bdaa-0bbcb3239bb5">
