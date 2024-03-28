@@ -6,6 +6,9 @@ home page
 register page
 <img width="960" alt="Annotation 2024-03-27 174951" src="https://github.com/farhana789/sameem-blog/assets/161808031/3bd66290-4703-4821-9de8-a3f3f5550cb7">
 
+Profile Page
+
+
 post creation page
 <img width="960" alt="Annotation 2024-03-27 174334" src="https://github.com/farhana789/sameem-blog/assets/161808031/df6c4c9b-454d-4adc-8e67-4e7bd9503227">
 
@@ -14,3 +17,7 @@ Login Pgae
 
 Forget Password
 <img width="960" alt="Annotation 2024-03-27 175533" src="https://github.com/farhana789/sameem-blog/assets/161808031/50c7c4f6-7c6f-4a52-abf6-2591556d5916">
+<img width="960" alt="Annotation 2024-03-27 175614" src="https://github.com/farhana789/sameem-blog/assets/161808031/8fec39ee-c4e4-4603-92df-2ecf684cc02e">
+<img width="960" alt="Annotation 2024-03-27 175704" src="https://github.com/farhana789/sameem-blog/assets/161808031/3149cae0-9412-447b-8572-99f2f6255d0e">
+<img width="960" alt="Annotation 2024-03-27 175754" src="https://github.com/farhana789/sameem-blog/assets/161808031/9964b022-1714-42ab-887a-5afafe4c4e16">
+<img width="960" alt="Annotation 2024-03-27 175835" src="https://github.com/farhana789/sameem-blog/assets/161808031/12d7275e-ee58-4d52-b449-ccf64dbeda72">
