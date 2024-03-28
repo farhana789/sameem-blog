@@ -8,6 +8,7 @@ register page
 
 Profile Page
 <img width="960" alt="Annotation 2024-03-28 121753" src="https://github.com/farhana789/sameem-blog/assets/161808031/bb9c0c91-f376-4a96-a828-ad95a0cc2bee">
+<img width="960" alt="Annotation 2024-03-28 122938" src="https://github.com/farhana789/sameem-blog/assets/161808031/b54e331b-4a69-4254-8c6b-e2c7409da8b8">
 
 post creation page
 <img width="960" alt="Annotation 2024-03-27 174334" src="https://github.com/farhana789/sameem-blog/assets/161808031/df6c4c9b-454d-4adc-8e67-4e7bd9503227">
