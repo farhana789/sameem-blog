@@ -13,5 +13,4 @@ Login Pgae
 <img width="960" alt="Annotation 2024-03-27 174450" src="https://github.com/farhana789/sameem-blog/assets/161808031/9d23642c-f67f-4603-a321-d9f44405baef">
 
 Forget Password
-<img width="960" alt="Annotation 2024-03-27 175408" src="https://github.com/farhana789/sameem-blog/assets/161808031/c7541c6e-6bda-47d6-8f25-a9d612efa8f2">
-
+<img width="960" alt="Annotation 2024-03-27 175533" src="https://github.com/farhana789/sameem-blog/assets/161808031/50c7c4f6-7c6f-4a52-abf6-2591556d5916">
